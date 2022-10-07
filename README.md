@@ -1,5 +1,5 @@
 # Percuter - MIDI
-This module adds MIDI - in functionality to Dynacord Percuter and Dynacord Percuter S drum modules via Multi-trigger input. It can be adapted to use with other electronic drums.
+This module adds MIDI - in functionality to Dynacord Percuter and Dynacord Percuter S electronic drums via Multi-trigger input. It can be adapted to use with other electronic drums and drum machines.
 
 You must set fusebits to use external 20 MHz crystal with no dividing (see: https://eleccelerator.com/fusecalc/fusecalc.php?chip=attiny2313&LOW=EE&HIGH=DF&EXTENDED=FF&LOCKBIT=FF ).
 
